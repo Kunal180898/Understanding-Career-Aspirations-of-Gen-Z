@@ -1,5 +1,5 @@
 # Understanding-Career-Aspirations-of-Gen-Z
-Internship Project at KultureHire
+KultureHire Internship Project
 
  Overview
 The KultureHire Data Report is a data-driven analysis focused on understanding Gen Z career aspirations. This study explores key trends, work preferences, salary expectations, and influences shaping Gen Z's career choices.
